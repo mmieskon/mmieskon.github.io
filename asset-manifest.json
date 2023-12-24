@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e0dc211d.css",
-    "main.js": "/static/js/main.db14be27.js",
+    "main.js": "/static/js/main.c745d61d.js",
     "static/media/joulu-puki-background.png": "/static/media/joulu-puki-background.cff8e15059e7d2658281.png",
     "index.html": "/index.html",
     "main.e0dc211d.css.map": "/static/css/main.e0dc211d.css.map",
-    "main.db14be27.js.map": "/static/js/main.db14be27.js.map"
+    "main.c745d61d.js.map": "/static/js/main.c745d61d.js.map"
   },
   "entrypoints": [
     "static/css/main.e0dc211d.css",
-    "static/js/main.db14be27.js"
+    "static/js/main.c745d61d.js"
   ]
 }
