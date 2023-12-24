@@ -1,6 +1,13 @@
 
+body {
+    background-image: url("img/joulu-puki-background.png");
+    color: white;
+}
+
+
 .title {
     text-align: center;
+    margin-top: 10%;
 }
 
 .claim {
@@ -9,4 +16,9 @@
 
 .prize {
     text-align: center;
+}
+
+.button {
+    background-color: #04aa6d;
+    color: white;
 }
