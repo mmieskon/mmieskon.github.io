@@ -3,10 +3,13 @@ import { useState } from "react";
 
 
 export default function MainPage() {
-    const [password, setPassword] = useState('');
+    const [password, setPassword] = useState("");
     const [showPrize, setShowPrize] = useState(false);
     function handleOnClaim() {
-        if (password['input'] === "joulu-puki123") {
+        if (!password['input']) {
+            return;
+        }
+        if (password['input'].toLowerCase() === "joulu-puki123") {
             setShowPrize(true);
         }
     }
